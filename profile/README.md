@@ -1,6 +1,6 @@
 # Coucou 👋
 
-![server-icon.png](../resources/server-icon/server-icon.png)
+![server-icon.png](/resources/server-icon/server-icon.png)
 
 Toutes les informations et resources liées au serveur Discord [#Unreal Engine FR](https://discord.gg/uefr) se trouvent ici :
 
