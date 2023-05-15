@@ -1,12 +1,10 @@
-## Hi there 👋
+# Coucou 👋
 
-<!--
+![server-icon.png](../resources/server-icon.png)
 
-**Here are some ideas to get you started:**
+Toutes les informations et resources liées au serveur Discord [#Unreal Engine FR](https://discord.gg/uefr) se trouvent ici :
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Lien du serveur : https://discord.gg/uefr](https://discord.gg/uefr)
+- [Chaine youtube : @unreal-engine-fr](@unreal-engine-fr)
+- [e-mail publique : ue4fr.staff@gmail.com](ue4fr.staff@gmail.com) (ne pas utiliser comme moyen de communication)
+- [site web : https://unreal-engine-fr.github.io/](https://unreal-engine-fr.github.io/)
